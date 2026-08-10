@@ -25,3 +25,10 @@ tests/samples/
 
 # Locally packaged archives
 *.rar
+
+# 内部工作文档:设计、spec、实施计划、调研笔记(只留本地,不推送)
+docs/superpowers/
+docs/research/
+*-design.md
+*-plan.md
+*-spec.md
